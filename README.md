@@ -1,5 +1,5 @@
 # 💫 About Me:
-React JS and Tailwind CSS
+👋
 
 
 ## 🌐 Socials:
